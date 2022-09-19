@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/AnhLe3698/weather-app#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "request": "^2.88.2"
   }
 }
